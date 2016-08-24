@@ -16,6 +16,10 @@ html{
   box-sizing: inherit;
 }
 
+h1{
+  margin: 10px 0px;
+}
+
 h3,
 p{
   margin: 0;
